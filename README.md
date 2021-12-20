@@ -3,7 +3,7 @@
 
 - 👩‍💻 I'm currently studying at Institute of Software engineering **(IJSE)**
 
-- 🌱 I’m currently learning **Blockchain Develop**
+- 🌱 I’m currently learning **Everything I don't know**
 
 - 🗃️ All of my projects are available at [https://github.com/IsuriDisanayaka](https://github.com/IsuriDisanayaka)
 
