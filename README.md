@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm 𝕀𝕤𝕦𝕣𝕚 𝔻𝕚𝕤𝕒𝕟𝕒𝕪𝕒𝕜𝕒</h1>
-<h3 align="center">ⅈꪀ𝕥ꫀ𝕣ꪀ ડꪮᠻ𝕥᭙ꪖ𝕣ꫀ ꫀꪀᧁⅈꪀꫀꫀ𝕣</h3>
 
-- 👩‍💻 I'm currently studying at Institute of Software engineering **(IJSE)**
+- I'm currently studying at Institute of Software engineering **(IJSE)**
 
-- 🌱 I’m currently learning **Everything I don't know**
+- I’m currently learning **Everything I don't know**
 
-- 🗃️ All of my projects are available at [https://github.com/IsuriDisanayaka](https://github.com/IsuriDisanayaka)
+- All of my projects are available at [https://github.com/IsuriDisanayaka](https://github.com/IsuriDisanayaka)
 
-- 📫 How to reach me **isuriumeshika1@gmail.com**
+- How to reach me **isuriumeshika1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
