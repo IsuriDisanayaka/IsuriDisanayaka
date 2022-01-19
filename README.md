@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 𝕀𝕤𝕦𝕣𝕚 𝔻𝕚𝕤𝕒𝕟𝕒𝕪𝕒𝕜𝕒🙋</h1>
+<h1 align="center">Hi, I'm 𝕀𝕤𝕦𝕣𝕚 𝔻𝕚𝕤𝕒𝕟𝕒𝕪𝕒𝕜𝕒</h1>
 <h3 align="center">ⅈꪀ𝕥ꫀ𝕣ꪀ ડꪮᠻ𝕥᭙ꪖ𝕣ꫀ ꫀꪀᧁⅈꪀꫀꫀ𝕣</h3>
 
 - 👩‍💻 I'm currently studying at Institute of Software engineering **(IJSE)**
