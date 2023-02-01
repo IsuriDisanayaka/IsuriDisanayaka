@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm 𝕀𝕤𝕦𝕣𝕚 𝔻𝕚𝕤𝕒𝕟𝕒𝕪𝕒𝕜𝕒</h1>
 
-- I'm currently studying at Institute of Software engineering **(IJSE)**
+- I'm currently following BSc(Hons) Software Engineering at Cardiff Metropolitan University - UK ****
 
 - I’m currently learning **Everything I don't know**
 
