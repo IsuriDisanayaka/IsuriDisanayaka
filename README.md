@@ -2,7 +2,6 @@
 
 - I'm currently following BSc(Hons) Software Engineering at Cardiff Metropolitan University - UK ****
 
-- I’m currently learning **Everything I don't know**
 
 - All of my projects are available at [https://github.com/IsuriDisanayaka](https://github.com/IsuriDisanayaka)
 
