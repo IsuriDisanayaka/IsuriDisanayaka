@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuri Disanayaka</h1>
-<h3 align="center">A passionate software engineer with over 1 year of experience in full-stack development. developer from India</h3>
+<h3 align="center">A passionate software engineer with over 1 year of experience in full-stack development.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/IsuriDisanayaka](https://github.com/IsuriDisanayaka)
 
